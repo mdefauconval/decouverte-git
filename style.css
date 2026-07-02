@@ -1,12 +1,14 @@
 body {
-  background: pink;
+  background: rgb(99, 182, 99);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(88, 39, 7);
 }
 
 .search_form {
-  background: lightblue;
+  background: rgb(202, 202, 202);
   padding: 1rem;
 }
 
 .search_form--input {
-  background: blue;
+  background: rgb(255, 192, 115);
 }
